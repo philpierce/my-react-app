@@ -14,6 +14,12 @@
         "categories": {
             "auth": {
                 "fullstackappefaba942": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1gannlq1jixx6",
+                    "type": "cicd"
+                }
             }
         }
     }
